@@ -1,3 +1,3 @@
-<i>@IKIKEPIYEDEV<i>
-   <h1><i>Madango </i></h1>
-<h2><i>Project with Laravel & vue </i></h2>
+<h3>Simple Project Laravel & Vuejs</h3>
+See the project here
+https://presensi-kuu1234.000webhostapp.com/
