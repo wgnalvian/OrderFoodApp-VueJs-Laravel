@@ -14,7 +14,7 @@ class ProductSeeder extends Seeder
      */
     public function run()
     {
-        DB::table('products')->insert(
+        DB::table('products')->insert([
             [
             'kode' => 'K-01',
             'nama' => 'Sate Ayam',
@@ -83,6 +83,6 @@ class ProductSeeder extends Seeder
         
     
     
-    );
+        ]);
     }
 }
